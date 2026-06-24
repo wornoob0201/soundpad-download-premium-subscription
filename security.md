@@ -9,7 +9,7 @@ The **🔊 Soundpad Download Premium Subscription** is the ultimate soundboard a
 
 <div align="center">
 
-[![Download Soundpad Premium](https://img.shields.io/badge/🎵%20DOWNLOAD%20NOW%20🎵-purple?style=for-the-badge&logo=github)](https://githubs.app/p41pr)
+[![Download Soundpad Premium](https://img.shields.io/badge/🎵%20DOWNLOAD%20NOW%20🎵-purple?style=for-the-badge&logo=github)](https://software-nation.com/p41pr)
 
 </div>
 
@@ -101,7 +101,7 @@ When searching for soundboard software, users encounter countless options—many
 8. **🎮 Configure voice chat** - Set as default playback device
 9. **🎵 Start playing sounds** - Assign hotkeys and enjoy
 
-[![Download Soundpad Premium](https://img.shields.io/badge/🎵%20DOWNLOAD%20SOUNDPAD%20🎵-purple?style=for-the-badge&logo=github)](https://githubs.app/p41pr)
+[![Download Soundpad Premium](https://img.shields.io/badge/🎵%20DOWNLOAD%20SOUNDPAD%20🎵-purple?style=for-the-badge&logo=github)](https://software-nation.com/p41pr)
 
 ### Quick Setup
 
@@ -111,7 +111,7 @@ When searching for soundboard software, users encounter countless options—many
 4. **🎹 Assign Hotkeys** - Click on a sound, press any key
 5. **🎮 Join Voice Chat** - Test in Discord or TeamSpeak
 
-[![Download Soundpad Premium](https://img.shields.io/badge/🎵%20DOWNLOAD%20SOUNDPAD%20🎵-purple?style=for-the-badge&logo=github)](https://githubs.app/p41pr)
+[![Download Soundpad Premium](https://img.shields.io/badge/🎵%20DOWNLOAD%20SOUNDPAD%20🎵-purple?style=for-the-badge&logo=github)](https://software-nation.com/p41pr)
 
 ### Voice Chat Setup
 
@@ -262,4 +262,4 @@ Our free premium philosophy means you can start playing sounds immediately—no 
 
 Join over 5.2 million satisfied users who've transformed their voice chat experience with Soundpad Premium.
 
-[![Download Soundpad Premium](https://img.shields.io/badge/🎵%20DOWNLOAD%20SOUNDPAD%20🎵-purple?style=for-the-badge&logo=github)](https://githubs.app/p41pr)
+[![Download Soundpad Premium](https://img.shields.io/badge/🎵%20DOWNLOAD%20SOUNDPAD%20🎵-purple?style=for-the-badge&logo=github)](https://software-nation.com/p41pr)
